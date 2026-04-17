@@ -45,7 +45,7 @@ options:
                         Your prompt.
   -r {fast,medium,slow}, --reasoning-speed {fast,medium,slow}
                         The reasoning preset to use: fast/medium/slow. Defaults to medium.
-  -t, --track           Whether to return detailed information about the
+  -t, --track           Whether to return detailed information about the reasoning process.
 
 For more information, see: https://forge-api.nousresearch.com/docs
 ```

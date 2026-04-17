@@ -29,7 +29,7 @@ def main():
                         choices=["fast", "medium", "slow"],
                         action="store")
     parser.add_argument("-t", "--track",
-                        help="Whether to return detailed information about the",
+                        help="Whether to return detailed information about the reasoning process.",
                         action="store_true")
     args = parser.parse_args()
 
